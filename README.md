@@ -14,5 +14,7 @@ Sales by Pizza Type and Size (including average order value)
 
 Comprehensive visualizations will be developed to present these insights, equipping the business to make data-driven strategic decisions to optimize operations and profitability.
 
+[Dataset](pizza_sales.zip)
+
 [SQL Code](Analysis.sql)
 
